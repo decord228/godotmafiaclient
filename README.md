@@ -1,6 +1,6 @@
 # 🎭 Yamiko Mafia UI (Web Panel)
 
-![Godot Engine](https://img.shields.io/badge/Godot-4.3-%23478cbf?logo=godot-engine&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot-4.6-%23478cbf?logo=godot-engine&logoColor=white)
 ![WASM](https://img.shields.io/badge/Platform-Web%20%2F%20WASM-orange)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 
