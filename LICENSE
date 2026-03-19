@@ -1,0 +1,53 @@
+# PROPRIETARY LICENSE / LEGAL NOTICE
+
+Copyright (c) 2026 d3cord. All rights reserved.
+
+This software (hereinafter referred to as "Yamiko Mafia Client"), including but not limited to source code, graphical assets, sound files, and compiled data (.pck, .wasm, .js), is the exclusive intellectual property of the author (d3cord).
+
+### 1. GRANT OF USE
+Users are granted a non-exclusive, non-transferable right to use this software for personal and entertainment purposes only, via the author's official web resource hosted on GitHub Pages.
+
+### 2. RESTRICTIONS (STRICTLY PROHIBITED)
+Any of the following actions without the express written consent of the author constitutes a violation of copyright law:
+* **Copying and Distribution:** Creating forks of this repository, downloading, or republishing the code and assets on any third-party hosting services or platforms.
+* **Modification:** Altering the source code, changing server API URLs, or using fragments of this code in other projects.
+* **Reverse Engineering:** Decompiling .wasm or .pck files for the purpose of extracting logic, scripts, or assets.
+* **Commercial Use:** Using the interface or any of its elements for profit-making activities.
+
+### 3. TERMINATION
+Any violation of these terms automatically terminates your right to use the software. The author reserves the right to request the removal of unauthorized copies via DMCA Takedown Notices on GitHub and other platforms.
+
+### 4. DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+---
+
+For inquiries regarding permissions or cooperation: [Discord - d3cord]
+
+--=
+
+# ЗАКОННОЕ УВЕДОМЛЕНИЕ / LICENSE
+
+Copyright (c) 2026 d3cord. Все права защищены.
+
+Настоящее программное обеспечение (далее — "Клиент Yamiko Mafia"), включая исходный код, графические ассеты, звуковые файлы и скомпилированные данные (.pck, .wasm, .js), является частной интеллектуальной собственностью автора (d3cord).
+
+### 1. УСЛОВИЯ ИСПОЛЬЗОВАНИЯ
+Пользователям предоставляется неэксклюзивное право на использование данного программного обеспечения исключительно в ознакомительных и развлекательных целях путем доступа через официальный веб-ресурс автора на платформе GitHub Pages.
+
+### 2. ОГРАНИЧЕНИЯ (КАТЕГОРИЧЕСКИ ЗАПРЕЩЕНО)
+Любое из следующих действий без явного письменного согласия автора является нарушением авторских прав:
+* **Копирование и распространение:** Создание копий (форков) репозитория, скачивание и повторная публикация кода на любых сторонних хостингах или ресурсах.
+* **Модификация:** Изменение кода, подмена адресов серверов (API URL) или использование частей кода в других проектах.
+* **Реверс-инжиниринг:** Декомпиляция файлов .wasm или .pck с целью извлечения логики или ресурсов.
+* **Коммерческое использование:** Использование интерфейса или его элементов для получения прибыли.
+
+### 3. ПРЕКРАЩЕНИЕ ПРАВ
+Любое нарушение вышеуказанных условий автоматически аннулирует право на использование ПО. Автор оставляет за собой право блокировать доступ к сервису и требовать удаления незаконно размещенных копий через процедуру DMCA Takedown Notice на платформе GitHub и других ресурсах.
+
+### 4. ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ
+Программное обеспечение предоставляется по принципу "КАК ЕСТЬ" (AS IS), без каких-либо гарантий. Автор не несет ответственности за любые сбои, потерю данных или иные последствия, возникшие в процессе использования ПО.
+
+---
+
+По вопросам получения разрешений или сотрудничества: [Discord - d3cord]

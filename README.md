@@ -1,10 +1,10 @@
 # 🎭 Yamiko Mafia UI (Web Panel)
 
-![Godot Engine](https://img.shields.io/badge/Godot-4.3-%23478cbf?logo=godot-engine&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot-4.6-%23478cbf?logo=godot-engine&logoColor=white)
 ![WASM](https://img.shields.io/badge/Platform-Web%20%2F%20WASM-orange)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 
-**Yamiko Mafia UI** — это высокотехнологичный веб-интерфейс для ведущих игры «Мафия», разработанный на движке **Godot 4.3**. Панель обеспечивает полный контроль над игровым процессом, визуализируя действия игроков и автоматизируя рутинные задачи ведущего.
+**Yamiko Mafia UI** — это высокотехнологичный веб-интерфейс для ведущих игры «Мафия», разработанный на движке **Godot 4.6**. Панель обеспечивает полный контроль над игровым процессом, визуализируя действия игроков и автоматизируя рутинные задачи ведущего.
 
 ---
 
